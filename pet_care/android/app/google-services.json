@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "915733920129",
+    "project_id": "pet-management-ed865",
+    "storage_bucket": "pet-management-ed865.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:915733920129:android:b3ee6a6a41728eea601080",
+        "android_client_info": {
+          "package_name": "com.example.pet_care"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "915733920129-0urf43tea2gheibifdv9eh3qksf3fitq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMWUGD2xfwLiK-lSSiCke9maiNxxXl004"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "915733920129-0urf43tea2gheibifdv9eh3qksf3fitq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:915733920129:android:e4a62bb3f15ddacf601080",
+        "android_client_info": {
+          "package_name": "com.flutter.pet_management"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "915733920129-0urf43tea2gheibifdv9eh3qksf3fitq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMWUGD2xfwLiK-lSSiCke9maiNxxXl004"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "915733920129-0urf43tea2gheibifdv9eh3qksf3fitq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
